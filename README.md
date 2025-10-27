@@ -1,6 +1,6 @@
-# [NASA Worldview](https://worldview.earthdata.nasa.gov)
+# [NASA live viwe ](https://worldview.earthdata.nasa.gov)
 
-[![Worldview Screenshot](/web/images/readme-preview.jpg)](https://worldview.earthdata.nasa.gov)
+[![live view Screenshot](/web/images/readme-preview.jpg)](https://worldview.earthdata.nasa.gov)
 
 [![CI-CD](https://github.com/nasa-gibs/worldview/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/nasa-gibs/worldview/actions/workflows/ci-cd.yml)
 
